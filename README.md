@@ -51,10 +51,6 @@ Spending Score (1-100)
 
 You can use the sample dataset: mall_customers.csv.
 
-📷 Screenshots
-
-
-
 📄 License
 This project is open-source and free to use under the MIT License.
 

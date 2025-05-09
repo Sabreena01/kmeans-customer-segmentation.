@@ -51,6 +51,8 @@ Spending Score (1-100)
 
 You can use the sample dataset: mall_customers.csv.
 
+📄 [Download UI Results (PDF)](./kmeans_ui_results.pdf)
+
 📄 License
 This project is open-source and free to use under the MIT License.
 
